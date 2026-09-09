@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://techorohit.github.io/reference-hm93r5/sitemap.xml
